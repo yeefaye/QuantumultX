@@ -33,7 +33,6 @@ HOST-SUFFIX,adservice.google.com
   
 #屏蔽上传
 HOST,miav-cse.avlyun.com
-#小米云备份异常请注释或删除这行
 HOST,a0.app.xiaomi.com
 HOST,miui-fxcse.avlyun.com
 HOST,api.installer.xiaomi.com
