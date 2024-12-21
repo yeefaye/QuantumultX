@@ -1,6 +1,7 @@
 # NAME: Microsoft
 
 HOST-SUFFIX,1drv.com
+HOST-SUFFIX,appcenter.ms
 HOST-SUFFIX,a-msedge.net
 HOST-SUFFIX,a1158.g.akamai.net
 HOST-SUFFIX,a122.dscg3.akamai.net
@@ -55,7 +56,6 @@ HOST-SUFFIX,binads.com
 HOST-SUFFIX,binb.com
 HOST-SUFFIX,binf.com
 HOST-SUFFIX,bing.com
-HOST-SUFFIX,bing.cn
 HOST-SUFFIX,bing123.com
 HOST-SUFFIX,bing135.com
 HOST-SUFFIX,bing4.com
@@ -181,7 +181,7 @@ HOST-SUFFIX,microsoft-give.com
 HOST-SUFFIX,microsoft-int.com
 HOST-SUFFIX,microsoft-ppe.com
 HOST-SUFFIX,microsoft-sap-events.com
-HOST-SUFFIX,microsoft-sbs-HOSTs.com
+HOST-SUFFIX,microsoft-sbs-domains.com
 HOST-SUFFIX,microsoft-smb.cn
 HOST-SUFFIX,microsoft-tst.com
 HOST-SUFFIX,microsoft.com
