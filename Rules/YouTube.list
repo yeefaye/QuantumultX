@@ -1,15 +1,25 @@
-# > YouTube
-USER-AGENT,com.google.ios.youtube*,YouTube
-USER-AGENT,YouTube*,YouTube
-DOMAIN-SUFFIX,googlevideo.com,YouTube
-DOMAIN-SUFFIX,withyoutube.com,YouTube
-DOMAIN-SUFFIX,youtu.be,YouTube
-DOMAIN-SUFFIX,youtube.com,YouTube
-DOMAIN-SUFFIX,youtubeeducation.com,YouTube
-DOMAIN-SUFFIX,youtubegaming.com,YouTube
-DOMAIN-SUFFIX,youtubekids.com,YouTube
-DOMAIN-SUFFIX,youtube-nocookie.com,YouTube
-DOMAIN-SUFFIX,yt.be,YouTube
-DOMAIN-SUFFIX,ytimg.com,YouTube
-DOMAIN,youtubei.googleapis.com,YouTube
-DOMAIN,yt3.ggpht.com,YouTube
+## NAME:AppleUpdate
+## 屏蔽苹果系统更新
+HOST,ns.itunes.apple.com
+HOST,appldnld.apple.com
+HOST,mesu.apple.com
+HOST,xp.apple.com
+HOST,gdmf.apple.com
+##以下域名或无需使用
+HOST,updates-http.cdn-apple.com
+HOST,updates.cdn-apple.com
+HOST,appldnld-lb.apple.com.akadns.net
+HOST,appldnld.apple.com
+HOST,appldnld.apple.com.akadns.net
+HOST,appldnld.g.aaplimg.com
+HOST,gdmf.apple.com
+HOST,gdmf.apple.com.akadns.net
+HOST,mesu-cdn.apple.com.akadns.net
+HOST,mesu-cdn.origin-apple.com.akadns.net
+HOST,mesu.apple.com
+HOST,mesu.g.aaplimg.com
+HOST,ocsp-lb.apple.com.akadns.net
+HOST,ocsp.apple.com
+HOST,ocsp.g.aaplimg.com
+HOST,gg.apple.com
+HOST,swscan.apple.com
